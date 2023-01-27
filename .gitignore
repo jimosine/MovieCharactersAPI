@@ -1,5 +1,5 @@
 #Properties
-/src/main/resources/application.properties
+./src/main/resources/application.properties
 
 #Mac stff
 .DS_Store
